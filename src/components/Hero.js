@@ -19,7 +19,7 @@ const Hero = () => {
 						Jump start your crypto portfolio
 					</p>
 					<p className="text-md text-gray-600 md:text-xl md:text-black md:font-medium lg:font-semibold">
-						Coinbase is the easiest place to buy and sell
+						Coinbase is the simplest place to buy and sell
 						cryptocurrency. Sign up and get started today.
 					</p>
 
