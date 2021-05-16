@@ -29,7 +29,7 @@ const Footer = () => {
 						<option value='tr'>Türkçe</option>
 					</select>
 					<div class='footersec'>
-						<div className='footersec1'>© 2021 Coinbase</div>
+						<div className='footersec-2'>© 2021 Coinbase</div>
 						<div className='footersec-2'>
 							<a href='/'> Blog </a>
 							<span className='footersec-2c'>•</span>
