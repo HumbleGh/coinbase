@@ -6,6 +6,7 @@ import CoinTable from "./components/CoinTable";
 import Earn from "./components/Earn";
 import Portfolio from "./components/Portfolio";
 import Startearning from "./components/Startearning"
+import Footer from "./components/Footer";
 
 function App() {
 	return (
@@ -18,6 +19,7 @@ function App() {
 			<Bluebar />
 			<Getstarted />
 			<Startearning />
+			<Footer />
 		</div>
 	);
 }
