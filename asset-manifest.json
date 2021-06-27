@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/coinbase/static/css/main.1305a176.chunk.css",
+    "main.js": "/coinbase/static/js/main.500b714f.chunk.js",
+    "main.js.map": "/coinbase/static/js/main.500b714f.chunk.js.map",
+    "runtime-main.js": "/coinbase/static/js/runtime-main.f565a845.js",
+    "runtime-main.js.map": "/coinbase/static/js/runtime-main.f565a845.js.map",
+    "static/js/2.8d22e9dc.chunk.js": "/coinbase/static/js/2.8d22e9dc.chunk.js",
+    "static/js/2.8d22e9dc.chunk.js.map": "/coinbase/static/js/2.8d22e9dc.chunk.js.map",
+    "index.html": "/coinbase/index.html",
+    "static/css/main.1305a176.chunk.css.map": "/coinbase/static/css/main.1305a176.chunk.css.map",
+    "static/js/2.8d22e9dc.chunk.js.LICENSE.txt": "/coinbase/static/js/2.8d22e9dc.chunk.js.LICENSE.txt",
+    "static/media/ample.0aa158ef.svg": "/coinbase/static/media/ample.0aa158ef.svg",
+    "static/media/apps.6ffc8115.webp": "/coinbase/static/media/apps.6ffc8115.webp",
+    "static/media/bitcoin-blue.e9c81c6a.svg": "/coinbase/static/media/bitcoin-blue.e9c81c6a.svg",
+    "static/media/calendar.e4a5b501.svg": "/coinbase/static/media/calendar.e4a5b501.svg",
+    "static/media/celo.c10445a8.svg": "/coinbase/static/media/celo.c10445a8.svg",
+    "static/media/coinbase_BG.c5b5054e.jpg": "/coinbase/static/media/coinbase_BG.c5b5054e.jpg",
+    "static/media/cypher.ac177de0.svg": "/coinbase/static/media/cypher.ac177de0.svg",
+    "static/media/graph.ac12b5b7.svg": "/coinbase/static/media/graph.ac12b5b7.svg",
+    "static/media/graph_icon.a2433ebf.svg": "/coinbase/static/media/graph_icon.a2433ebf.svg",
+    "static/media/logo.8ea58a7d.svg": "/coinbase/static/media/logo.8ea58a7d.svg",
+    "static/media/mobile.94c8d339.svg": "/coinbase/static/media/mobile.94c8d339.svg",
+    "static/media/phone.dfbf2331.svg": "/coinbase/static/media/phone.dfbf2331.svg",
+    "static/media/right-arrow.e3022165.svg": "/coinbase/static/media/right-arrow.e3022165.svg",
+    "static/media/vault.0aded360.svg": "/coinbase/static/media/vault.0aded360.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f565a845.js",
+    "static/js/2.8d22e9dc.chunk.js",
+    "static/css/main.1305a176.chunk.css",
+    "static/js/main.500b714f.chunk.js"
+  ]
+}
